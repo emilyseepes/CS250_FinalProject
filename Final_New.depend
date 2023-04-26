@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1670115243 source:c:\users\emily\documents\final_new\main.cpp
+	<iostream>
+	"Board.h"
+	"Referee.h"
+	"Player.h"
+
+1670115807 c:\users\emily\documents\final_new\include\board.h
+	<random>
+	<iostream>
+	<time.h>
+
+1670114667 source:c:\users\emily\documents\final_new\src\board.cpp
+	"Board.h"
+	"Player.h"
+	"Referee.h"
+	<iostream>
+
+1670115042 source:c:\users\emily\documents\final_new\src\referee.cpp
+	<stdlib.h>
+	"Referee.h"
+	"Player.h"
+
+1670114975 c:\users\emily\documents\final_new\include\referee.h
+	"Board.h"
+	"Player.h"
+	<iostream>
+
+1670115187 source:c:\users\emily\documents\final_new\src\player.cpp
+	"Player.h"
+	"Board.h"
+	<iostream>
+
+1670115187 c:\users\emily\documents\final_new\include\player.h
+	<iostream>
+
